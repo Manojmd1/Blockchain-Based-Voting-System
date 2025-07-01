@@ -1,8 +1,6 @@
 # Blockchain-Based-Voting-System
 Blockchain technology provides a decentralized and immutable approach to bolstering election security. By distributing voter data across multiple network nodes, it significantly reduces the risk of tampering that is often linked with centralized voting systems.
 
-![image](https://github.com/user-attachments/assets/6dd04550-be3f-4cfe-a2bf-4469213adcfd)
-
 # Snapshot of home page
 ![image](https://github.com/user-attachments/assets/60d601af-1d23-4199-bfcf-108b2edeb56d)
 
