@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\manoj\\Downloads\\Prime-Minister-Voting-Dapp (1)\\Prime-Minister-Voting-Dapp\\voting-dapp\\contracts\\VotingOrganization.sol": {
+      "lastModificationDate": 1743507431234,
+      "contentHash": "be52f00c56cf29b260e3cf4a81b0a2e9",
+      "sourceName": "contracts/VotingOrganization.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "VotingOrganization"
+      ]
+    }
+  }
+}
